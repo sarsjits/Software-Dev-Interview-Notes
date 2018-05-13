@@ -1,5 +1,18 @@
 # Software-Dev-Interview-Notes
 Contains the explanation of some basic and must know technologies for a software developer
+## Front End
+
+### Angular 2+
+---
+
+- [The essential difference between Constructor and ngOnInit in Angular](https://blog.angularindepth.com/the-essential-difference-between-constructor-and-ngoninit-in-angular-c9930c209a42)
+
+## Web Services
+
+### REST
+---
+
+- Blog Series: [Part 1](https://www.oreilly.com/learning/how-to-design-a-restful-api-architecture-from-a-human-language-spec?utm_source=oreilly&utm_medium=newsite&utm_campaign=how-a-restful-api-server-reacts-to-requests), [Part 2](https://www.oreilly.com/ideas/how-a-restful-api-server-reacts-to-requests), and [Part 3](https://www.oreilly.com/ideas/how-a-restful-api-represents-resources).
 
 ## Web Security
 
