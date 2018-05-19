@@ -7,6 +7,13 @@ Contains the explanation of some basic and must know technologies for a software
 
 - [The essential difference between Constructor and ngOnInit in Angular](https://blog.angularindepth.com/the-essential-difference-between-constructor-and-ngoninit-in-angular-c9930c209a42)
 
+## Middleware
+
+### Load Balancer
+---
+- [Sticky and Non-Sticky Sessions](https://stackoverflow.com/questions/10494431/sticky-and-non-sticky-sessions)
+- [Should SSL be terminated at a load balancer?](https://security.stackexchange.com/questions/30403/should-ssl-be-terminated-at-a-load-balancer)
+
 ## Web Services
 
 ### REST
