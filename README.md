@@ -97,3 +97,8 @@ Contains the explanation of some basic and must know technologies for a software
 - https://nikhilm.github.io/uvbook/introduction.html
 - http://www.slideshare.net/saghul/libuv-nodejs-and-everything-in-between
 - https://medium.com/@amanhimself/the-node-js-system-51090c35dddc#.7znlwomq1
+
+## Blogs by Developers
+
+- [Codementor](https://www.codementor.io/community)
+- [Toptal](https://www.toptal.com/blog)
