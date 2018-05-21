@@ -59,6 +59,8 @@ Contains the explanation of some basic and must know technologies for a software
 - https://developer.mozilla.org/en/docs/Web/JavaScript/EventLoop
 - https://github.com/maxogden/art-of-node#the-art-of-node
 
+- [Cyclic Depencies in Node modules](https://stackoverflow.com/a/10872944/4604689)
+
 #### Best Practices
 - https://github.com/i0natan/nodebestpractices
 
