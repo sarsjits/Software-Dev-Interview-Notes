@@ -59,7 +59,7 @@ Contains the explanation of some basic and must know technologies for a software
 - https://developer.mozilla.org/en/docs/Web/JavaScript/EventLoop
 - https://github.com/maxogden/art-of-node#the-art-of-node
 
-- [Cyclic Depencies in Node modules](https://stackoverflow.com/a/10872944/4604689)
+- [Cyclic Dependencies in Node modules](https://stackoverflow.com/a/10872944/4604689)
 
 #### Best Practices
 - https://github.com/i0natan/nodebestpractices
@@ -84,6 +84,9 @@ Contains the explanation of some basic and must know technologies for a software
 #### Talks
 - https://www.youtube.com/watch?v=8aGhZQkoFbQ
 - https://www.youtube.com/watch?v=Yb9rnP2MhYc
+- [Node's Event Loop From the Inside Out by Sam Roberts, IBM](https://www.youtube.com/watch?v=P9csgxBgaZ8)
+- [The Node.js Event Loop: Not So Single Threaded](https://www.youtube.com/watch?v=zphcsoSJMvM)
+- [Morning Keynote- Everything You Need to Know About Node.js Event Loop - Bert Belder, IBM](https://www.youtube.com/watch?v=PNa9OMajw9w)
 
 #### REST API Tutorial
 - https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q
